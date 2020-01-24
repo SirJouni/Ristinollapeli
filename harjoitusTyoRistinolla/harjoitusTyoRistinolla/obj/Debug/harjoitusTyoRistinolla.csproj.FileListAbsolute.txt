@@ -1,0 +1,11 @@
+C:\Users\omistaja\source\repos\harjoitusTyoRistinolla\harjoitusTyoRistinolla\bin\Debug\harjoitusTyoRistinolla.exe.config
+C:\Users\omistaja\source\repos\harjoitusTyoRistinolla\harjoitusTyoRistinolla\bin\Debug\harjoitusTyoRistinolla.exe
+C:\Users\omistaja\source\repos\harjoitusTyoRistinolla\harjoitusTyoRistinolla\bin\Debug\harjoitusTyoRistinolla.pdb
+C:\Users\omistaja\source\repos\harjoitusTyoRistinolla\harjoitusTyoRistinolla\obj\Debug\harjoitusTyoRistinolla.csprojAssemblyReference.cache
+C:\Users\omistaja\source\repos\harjoitusTyoRistinolla\harjoitusTyoRistinolla\obj\Debug\harjoitusTyoRistinolla.Properties.Resources.resources
+C:\Users\omistaja\source\repos\harjoitusTyoRistinolla\harjoitusTyoRistinolla\obj\Debug\harjoitusTyoRistinolla.csproj.GenerateResource.cache
+C:\Users\omistaja\source\repos\harjoitusTyoRistinolla\harjoitusTyoRistinolla\obj\Debug\harjoitusTyoRistinolla.exe
+C:\Users\omistaja\source\repos\harjoitusTyoRistinolla\harjoitusTyoRistinolla\obj\Debug\harjoitusTyoRistinolla.pdb
+C:\Users\omistaja\source\repos\harjoitusTyoRistinolla\harjoitusTyoRistinolla\obj\Debug\harjoitusTyoRistinolla.Ristinolla.resources
+C:\Users\omistaja\source\repos\harjoitusTyoRistinolla\harjoitusTyoRistinolla\obj\Debug\harjoitusTyoRistinolla.MenuIkkuna.resources
+C:\Users\omistaja\source\repos\harjoitusTyoRistinolla\harjoitusTyoRistinolla\obj\Debug\harjoitusTyoRistinolla.PeliLoppu.resources
